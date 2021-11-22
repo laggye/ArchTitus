@@ -112,7 +112,6 @@ PKGS=(
 'haveged'
 'htop'
 'iptables-nft'
-'jdk-openjdk' # Java 17
 'kate'
 'kcodecs'
 'kcoreaddons'
@@ -146,7 +145,6 @@ PKGS=(
 'openbsd-netcat'
 'openssh'
 'os-prober'
-'oxygen'
 'p7zip'
 'pacman-contrib'
 'patch'
@@ -170,7 +168,6 @@ PKGS=(
 'sddm-kcm'
 'snapper'
 'spectacle'
-'steam'
 'sudo'
 'swtpm'
 'synergy'
